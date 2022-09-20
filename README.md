@@ -1,4 +1,4 @@
-# Hello World Microverse Project
+# Microverse Hello Project
 ​
 > Description the project.
 ​
