@@ -6,31 +6,28 @@
 ## Built With
 ​
 - Major languages
+Html
+Css
+Linters
+
 - Frameworks
+No framework used
+
 - Technologies used
+Git
+Github
 ​
 ​
 ## Getting Started
 ​
 To get a local copy up and running follow these simple example steps.
 ​
-### Prerequisites
-​
-### Setup
-​
-### Install
-​
-### Usage
-​
-### Deployment
-​
-​
 ​
 ## Authors
 ​
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitter](https://twitter.com/boo_shehab2000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahmed-al-ali-77b6a0246)
+- GitHub: [@boo-shehab](https://github.com/githubhandle)
+- Twitter: [@boo_shehab2000](https://twitter.com/boo_shehab2000)
+- LinkedIn: [@ahmed-al-ali](https://www.linkedin.com/in/ahmed-al-ali-77b6a0246)
 ​
 ## �� Contributing
 ​
