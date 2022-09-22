@@ -1,27 +1,22 @@
 # Microverse Hello Project
 ​
-> Description the project.
+> First Module
+> This project is part of the Microverse Curriculum
 ​
 ​
 ## Built With
 ​
 - Major languages
-Html
+(Html
 Css
-Linters
+Linters)
 
 - Frameworks
 No framework used
 
 - Technologies used
-Git
-Github
-​
-​
-## Getting Started
-​
-To get a local copy up and running follow these simple example steps.
-​
+(Git
+Github)
 ​
 ## Authors
 ​
